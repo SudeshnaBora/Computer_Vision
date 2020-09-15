@@ -1,0 +1,109 @@
+@inproceedings{zhu2019unsupervised,
+  title={Unsupervised event-based learning of optical flow, depth, and egomotion},
+  author={Zhu, Alex Zihao and Yuan, Liangzhe and Chaney, Kenneth and Daniilidis, Kostas},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={989--997},
+  year={2019}
+}
+
+@inproceedings{barua2016direct,
+  title={Direct face detection and video reconstruction from event cameras},
+  author={Barua, Souptik and Miyatani, Yoshitaka and Veeraraghavan, Ashok},
+  booktitle={2016 IEEE winter conference on applications of computer vision (WACV)},
+  pages={1--9},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{fan2020robust,
+  title={Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering},
+  author={Fan, Jicong and Yang, Chengrun and Udell, Madeleine},
+  journal={arXiv preprint arXiv:2005.01317},
+  year={2020}
+}
+
+@article{lebrun2012implementation,
+  title={An implementation and detailed analysis of the K-SVD image denoising algorithm},
+  author={Lebrun, Marc and Leclaire, Arthur},
+  journal={Image Processing On Line},
+  volume={2},
+  pages={96--133},
+  year={2012}
+}
+
+@inproceedings{scheerlinck2020fast,
+  title={Fast image reconstruction with an event camera},
+  author={Scheerlinck, Cedric and Rebecq, Henri and Gehrig, Daniel and Barnes, Nick and Mahony, Robert and Scaramuzza, Davide},
+  booktitle={The IEEE Winter Conference on Applications of Computer Vision},
+  pages={156--163},
+  year={2020}
+}
+
+@article{aharon2006k,
+  title={K-SVD: An algorithm for designing overcomplete dictionaries for sparse representation},
+  author={Aharon, Michal and Elad, Michael and Bruckstein, Alfred},
+  journal={IEEE Transactions on signal processing},
+  volume={54},
+  number={11},
+  pages={4311--4322},
+  year={2006},
+  publisher={IEEE}
+}
+
+@article{boahen2005neuromorphic,
+  title={Neuromorphic microchips},
+  author={Boahen, Kwabena},
+  journal={Scientific American},
+  volume={292},
+  number={5},
+  pages={56--63},
+  year={2005},
+  publisher={JSTOR}
+}
+
+@article{patrick2008128x,
+  title={A 128x 128 120 dB 15$\mu$ s Latency Asynchronous Temporal Contrast Vision Sensor},
+  author={Patrick, Lichtsteiner and Posch, Christoph and Delbruck, Tobi},
+  journal={IEEE journal of solid-state circuits},
+  volume={43},
+  pages={566--576},
+  year={2008}
+}
+
+@article{gallego2019event,
+  title={Event-based vision: A survey},
+  author={Gallego, Guillermo and Delbruck, Tobi and Orchard, Garrick and Bartolozzi, Chiara and Taba, Brian and Censi, Andrea and Leutenegger, Stefan and Davison, Andrew and Conradt, J{\"o}rg and Daniilidis, Kostas and others},
+  journal={arXiv preprint arXiv:1904.08405},
+  year={2019}
+}
+
+
+@article{cai2011orthogonal,
+  title={Orthogonal matching pursuit for sparse signal recovery with noise},
+  author={Cai, T Tony and Wang, Lie},
+  journal={IEEE Transactions on Information theory},
+  volume={57},
+  number={7},
+  pages={4680--4688},
+  year={2011},
+  publisher={IEEE}
+}
+
+@article{tropp2007signal,
+  title={Signal recovery from random measurements via orthogonal matching pursuit},
+  author={Tropp, Joel A and Gilbert, Anna C},
+  journal={IEEE Transactions on information theory},
+  volume={53},
+  number={12},
+  pages={4655--4666},
+  year={2007},
+  publisher={IEEE}
+}
+
+@inproceedings{mairal2009online,
+  title={Online dictionary learning for sparse coding},
+  author={Mairal, Julien and Bach, Francis and Ponce, Jean and Sapiro, Guillermo},
+  booktitle={Proceedings of the 26th annual international conference on machine learning},
+  pages={689--696},
+  year={2009}
+}

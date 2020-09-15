@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{barua2016direct}
+Souptik Barua, Yoshitaka Miyatani, and Ashok Veeraraghavan.
+\newblock Direct face detection and video reconstruction from event cameras.
+\newblock In {\em 2016 IEEE winter conference on applications of computer
+  vision (WACV)}, pages 1--9. IEEE, 2016.
+
+\bibitem{boahen2005neuromorphic}
+Kwabena Boahen.
+\newblock Neuromorphic microchips.
+\newblock {\em Scientific American}, 292(5):56--63, 2005.
+
+\bibitem{fan2020robust}
+Jicong Fan, Chengrun Yang, and Madeleine Udell.
+\newblock Robust non-linear matrix factorization for dictionary learning,
+  denoising, and clustering.
+\newblock {\em arXiv preprint arXiv:2005.01317}, 2020.
+
+\bibitem{scheerlinck2020fast}
+Cedric Scheerlinck, Henri Rebecq, Daniel Gehrig, Nick Barnes, Robert Mahony,
+  and Davide Scaramuzza.
+\newblock Fast image reconstruction with an event camera.
+\newblock In {\em The IEEE Winter Conference on Applications of Computer
+  Vision}, pages 156--163, 2020.
+
+\end{thebibliography}

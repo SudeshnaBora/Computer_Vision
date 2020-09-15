@@ -1,0 +1,64 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+
+\usepackage{amssymb,amsmath,amsfonts}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}
+\DeclareGraphicsExtensions{.bmp,.png,.pdf,.jpg}
+\usepackage{gensymb}
+
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{vmargin}
+\setmarginsrb{2 cm}{2 cm}{2 cm}{2 cm}{1 cm}{1.5 cm}{1 cm}{1.5 cm}
+
+\usepackage[english]{babel}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\hypersetup{
+    colorlinks=true,% make the links colored
+}
+\usepackage[nolist]{acronym}
+\usepackage[table]{xcolor}
+\usepackage{url}
+
+\bibliographystyle{style}
+
+\begin{document}
+\begin{titlepage}
+
+\title{     \textbf{Lab Rotation - Image reconstruction in event sensors}\\[2.5ex]
+\textit{Sudeshna Bora} }
+
+\author{    
+             \textbf{Supervisor:}  \\[2.5ex]
+             \textbf{BCCN Supervisor: Prof. Richard Kempter}  \\[2.5ex]
+            \normalsize{Bernstein Center for Computational Neuroscience, Berlin}        \\
+       }
+\date{}
+
+\end{titlepage}
+
+\maketitle
+\thispagestyle{empty} 
+
+\maketitle
+
+{
+  \hypersetup{linkcolor=black}
+  \tableofcontents
+}
+
+\input{Tex/Introduction}\newpage\cleardoublepage
+
+
+\bibliography{bib/Bibliography}\newpage\cleardoublepage
+
+\end{document}
