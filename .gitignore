@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+code/test_panorama29092020.bag
+code/Libraries/dictlearn-master/tests/test_vtk_wrapper.py
