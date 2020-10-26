@@ -29,7 +29,7 @@
 \usepackage[table]{xcolor}
 \usepackage{url}
 
-\bibliographystyle{style}
+\bibliographystyle{plain}
 
 \begin{document}
 \begin{titlepage}
@@ -38,8 +38,8 @@
 \textit{Sudeshna Bora} }
 
 \author{    
-             \textbf{Supervisor:}  \\[2.5ex]
-             \textbf{BCCN Supervisor: Prof. Richard Kempter}  \\[2.5ex]
+             \textbf{Supervisor: Dr. Prof Guillermo Gallego}  \\[2.5ex]
+             \textbf{BCCN Supervisor: Dr. Prof. Richard Kempter}  \\[2.5ex]
             \normalsize{Bernstein Center for Computational Neuroscience, Berlin}        \\
        }
 \date{}
