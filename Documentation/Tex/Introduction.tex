@@ -2,11 +2,15 @@
 
 Retinomorphic event cameras are biologically inspired cameras that unlike traditional cameras do not capture entire intensity of the visual space at a given time. Instead, these sensors capture any change in intensity of pixels in the visual space (beyond a certain threshold) without being bounded by time \cite{boahen2005neuromorphic}. This asynchronous nature and sensitivity to scene dynamics have led to a lot of advantages namely low latency, high temporal resolution, high dynamic range and low power consumption compared to conventional frame based camera.\\
 
-The first retinomorphic camera was developed by Mahowald and Mead. DVS and consecutively DAVIS are the two currently used event camera desgins.  
- My lab rotation deals with implementing an image reconstruction algorithm and comparing it with a CNN algorithm ; further I intend to try a different dictionary learning algorithm to represent the events. The deliverable of the lab rotation is enumerated below :-
+The first retinomorphic camera was developed by Mahowald and Mead. DVS, ATIS and DAVIS are frequently used event camera designs. DVS corresponds to the transient pathway upto the ganglion cells. The greyscale events of ATIS corresponds to the "what" pathway through the parvo layer of the brain. \cite{posch2014retinomorphic}. Similar to the flow of visual stimuli from visual receptive field down the pathway with the help of neurons(that fires if the incoming stimuli is above a threshold), event processing can be visualised in the same manner. Spike (events) are produced by pixels of the event camera (when a threshold of the input is crossed). his information likewise travels from the first layer to higher layers.
+
+Since event cameras are a markedly different than conventional cameras; the algorithms used to investigate the events for image reconstruction, depth estimation etc are different and presents their own unique set of obstacles.
+
+ 
+My lab rotation deals primarily with implementation and comparative analysis of two image event camera based image reconstruction algorithm. The deliverables are enlisted below:
 
 \begin{itemize}
-  \item History of Image reconstruction in Event camera.
+  \item Holistic overview of image reconstruction algorithm in the domain of event cameras.
   \item Study and implementation of Image Reconstruction by dictionary learning. \cite{barua2016direct}
   \item Study, implementation and analysis of FireNet.\cite{scheerlinck2020fast}
   \item Comparative analysis of the two algorithms.

@@ -107,3 +107,25 @@
   pages={689--696},
   year={2009}
 }
+
+@article{posch2014retinomorphic,
+  title={Retinomorphic event-based vision sensors: bioinspired cameras with spiking output},
+  author={Posch, Christoph and Serrano-Gotarredona, Teresa and Linares-Barranco, Bernabe and Delbruck, Tobi},
+  journal={Proceedings of the IEEE},
+  volume={102},
+  number={10},
+  pages={1470--1484},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{steffen2019neuromorphic,
+  title={Neuromorphic stereo vision: A survey of bio-inspired sensors and algorithms},
+  author={Steffen, Lea and Reichard, Daniel and Weinland, Jakob and Kaiser, Jacques and Roennau, Arne and Dillmann, R{\"u}diger},
+  journal={Frontiers in neurorobotics},
+  volume={13},
+  pages={28},
+  year={2019},
+  publisher={Frontiers}
+}
+

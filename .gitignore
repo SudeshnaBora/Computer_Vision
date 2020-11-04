@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 code/test_panorama29092020.bag
 code/Libraries/dictlearn-master/tests/test_vtk_wrapper.py
+code/data/dynamic_6dof.zip
